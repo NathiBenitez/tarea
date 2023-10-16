@@ -1,1 +1,1 @@
-## This is an issue file
+This is an issue file
